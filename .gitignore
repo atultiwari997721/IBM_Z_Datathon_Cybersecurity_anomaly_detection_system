@@ -22,3 +22,4 @@ data/
 models/
 dashboard/.git
 tools/jadx/lib/
+node_modules
